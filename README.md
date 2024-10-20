@@ -1,5 +1,7 @@
 # Task Tracker CLI
 
+Простое решение на Puthon [task-tracker](https://roadmap.sh/projects/task-tracker) для задания с проекта [roadmap.sh](https://roadmap.sh/).
+
 ## Описание проекта
 Task Tracker CLI - это проект, который позволяет отслеживать и управлять задачами. Этот проект представляет собой простой командный интерфейс (CLI), который позволяет добавлять, обновлять и удалять задачи, а также отмечать их как выполненные или находящиеся в процессе выполнения.
 
@@ -13,7 +15,7 @@ Task Tracker CLI - это проект, который позволяет отс
 ### Шаги установки
 1. Клонируйте репозиторий проекта: 
    ```bash
-   git clone git@github.com:your-username/Task_Tracker.git  
+   git clone git@github.com:AlexaKrut/Task_Tracker.git  
 2. Перейдите в папку проекта
    ```bash
    cd Task_Tracker
