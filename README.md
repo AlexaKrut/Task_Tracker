@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-Простое решение на Puthon [task-tracker](https://roadmap.sh/projects/task-tracker) для задания с проекта [roadmap.sh](https://roadmap.sh/).
+Простое решение на Python [task-tracker](https://roadmap.sh/projects/task-tracker) для задания с проекта [roadmap.sh](https://roadmap.sh/).
 
 ## Описание проекта
 Task Tracker CLI - это проект, который позволяет отслеживать и управлять задачами. Этот проект представляет собой простой командный интерфейс (CLI), который позволяет добавлять, обновлять и удалять задачи, а также отмечать их как выполненные или находящиеся в процессе выполнения.
